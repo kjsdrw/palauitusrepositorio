@@ -18,6 +18,10 @@ selain->palvelin: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
 palvelin-->selain: [{"content":"new note","date":"2023-01-09T10:08:25.242Z"}, ...]
 
 note over selain:
+HUOM! selain EI lataa uuelleen HTML, CSS-tiedostoja.
+end note
+
+note over selain:
 selain suorittaa tapahtumankäsittelijän
 joka renderöi uuden muistiinpanon näytölle aikaisempien jatkoksi
 end note
