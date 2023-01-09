@@ -3,9 +3,9 @@
 
 ```
 osa0
- 04
- 05
- 06
+  04 uusi muistiinpano
+  05 Single Page App
+  06 uusi muistiinpano SPA
 osa1
   kurssitiedot
   unicafe
