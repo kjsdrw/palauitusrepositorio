@@ -11,7 +11,6 @@ selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
 note over selain:
 selain lähettää POST pyynnön palvelimelle ja alkaa suorittaa js-koodia
 joka tallentaa kenttään kirjoitetun tekstin "Jotain" listalle/palvelimelle/tietokantaan
-sekä päivittää uuden listan eli JSON datan
 end note
 
 note over selain:
@@ -27,7 +26,7 @@ palvelin-->selain: main.js
 
 note over selain:
 selain alkaa suorittaa js-koodia
-joka pyytää JSON-datan palvelimelta
+joka pyytää päivitetyn JSON-datan palvelimelta
 end note
 
 selain->palvelin: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
