@@ -1,4 +1,7 @@
+![Tehtävä 05: Single Page App](https://github.com/kjsdrw/palautusrepositorio/blob/9dcca8109ecfa08a25e38a06386af9414d9a5312/osa0/05/Tehtava_05_Single_Page_App.png)
+
 ```
+
 title Tehtävä - 0.5: Single Page App
 
 selain->palvelin: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
