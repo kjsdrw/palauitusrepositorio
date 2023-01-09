@@ -1,3 +1,5 @@
+![Tehhtävä 06: uusi muistiinpano](https://github.com/kjsdrw/palautusrepositorio/blob/ee11970be81b41efb622eb82421f74fbeb708cce/osa0/06/Tehtava_06_%20uusi_muistiinpano_SPA.png)
+
 ```
 
 title Tehtävä - 0.6: uusi muistiinpano
