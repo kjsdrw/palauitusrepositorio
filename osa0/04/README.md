@@ -1,4 +1,4 @@
-![Tehtävä 04: uusi muistiinpano](osa0/04/Tehtava_04_ uusi_muistiinpano.png)
+![osa0/04/Tehtava_04_ uusi_muistiinpano.png](https://github.com/kjsdrw/palautusrepositorio/blob/f85de65622587ed2bc58681254972d9834eac5e5/osa0/04/Tehtava_04_%20uusi_muistiinpano.png)
 
 
 ```
