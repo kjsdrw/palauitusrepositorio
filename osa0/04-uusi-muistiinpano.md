@@ -1,4 +1,4 @@
-
+```
 title Tehtävä - 0.4: uusi muistiinpano
 
 note over selain:
@@ -21,3 +21,4 @@ note over selain:
 selain suorittaa tapahtumankäsittelijän
 joka renderöi uuden muistiinpanon näytölle aikaisempien jatkoksi
 end note
+```
