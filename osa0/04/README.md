@@ -1,3 +1,6 @@
+![Tehtävä 04: uusi muistiinpano](osa0/04/Tehtava_04_ uusi_muistiinpano.png)
+
+
 ```
 
 title Tehtävä - 0.4: uusi muistiinpano
