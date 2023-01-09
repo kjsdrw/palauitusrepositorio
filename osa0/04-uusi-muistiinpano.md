@@ -15,7 +15,7 @@ sekä päivittää uuden listan eli JSON datan
 end note
 
 selain->palvelin: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
-palvelin-->selain: [{ content: "HTML on helppoa", date: "2019-01-01" }, ...]
+palvelin-->selain: [{"content":"new note","date":"2023-01-09T10:08:25.242Z"}, ...]
 
 note over selain:
 selain suorittaa tapahtumankäsittelijän
