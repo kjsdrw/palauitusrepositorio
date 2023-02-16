@@ -1,29 +1,46 @@
-# Karin palautusrepositorio
+# Karin palautusrepositorio => FullStackOpen.com
 
 
 ```
-osa0
+osa0 - WEb-sovellusten toiminnan perusteet
+
   04 uusi muistiinpano
   05 Single Page App
   06 uusi muistiinpano SPA
-osa1
+
+osa1 - Reaactin perusteet
+
   kurssitiedot
   unicafe
   anekdootit
-osa2
+
+osa2 - Palvelimen kanssa taphtuva kommunikointi
+
   puhelinluettelo
   maiden_tiedot
-osa3
-osa4
-osa5
-osa6
-osa7
-osa8
-osa9
-osa10
-osa11
-osa12
-  
+
+osa3 - Palvelimen ohjelmointi NodeJS:n Express-kirjastolla
+
+osa4 - Express-sovellusten testaaminen, käyttäjänhallinta
+
+osa5 - React-sovelluksen testaaminen
+
+osa6 - Edistynyt tilan hallinta
+
+osa7 - React router, custom-hookin, tyylikirjastot ja webpack
+
+osa8 - GraphQL
+
+osa9 - TypeScript
+
+osa10 - React Native
+
+osa11 - CI/CD
+
+osa12 - Konttiteknologia
+
+osa13 - Relaatiotietokannan käyttö
+
    
 ```
 
